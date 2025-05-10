@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1678140144 source:c:\users\hp\desktop\programy na github\c++\programs\program do raportu i autoraportu z pytaniami\main.cpp
+	<iostream>
+	<conio.h>
+	<fstream>
+	<stdio.h>
+	<ctype.h>
+
+1680100160 source:c:\users\hp\desktop\portfolio programy na github\c++\programs\human decision-making mechanisms\main.cpp
+	<iostream>
+	<conio.h>
+	<fstream>
+	<stdio.h>
+	<ctype.h>
+
+1742092928 source:f:\my portafolio it ulepszona\c++\programs\human decision-making mechanisms\main.cpp
+	<iostream>
+	<conio.h>
+	<fstream>
+	<stdio.h>
+	<ctype.h>
+	<limits>
+	"config.h"
+	"utils.h"
+
+1742091718 f:\my portafolio it ulepszona\c++\programs\human decision-making mechanisms\config.h
+	<string>
+
+1742091720 f:\my portafolio it ulepszona\c++\programs\human decision-making mechanisms\utils.h
+	<windows.h>
+	<string>
+	<fstream>
+	<ctime>
+	"config.h"
+
