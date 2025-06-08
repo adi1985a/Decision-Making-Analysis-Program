@@ -23,6 +23,8 @@ _A C++ console application for analyzing decision-making mechanisms through self
 
 **DecisionInsight Pro**, authored by Adrian Lesniak, is an insightful C++ console application designed to explore and analyze individual decision-making patterns. It primarily focuses on a **Self-Report** mode where users answer a series of questions to assess their preferred sensory systems (Visual, Auditory, Kinesthetic - VAK) and key metaprograms (e.g., internal/external authority, comparison styles). Based on these assessments, the program can generate tailored product descriptions. A **Report** mode, intended for analyzing others, is included as a placeholder for future development. The application features a colorful Windows-specific console interface, robust input validation, and event logging, all managed through a modular design utilizing user-provided `config.h` and `utils.h` files.
 
+![Demo GIF](screenshots/1.gif)
+
 ## ✨ Key Features
 
 *   🧠 **Self-Report Analysis**:
@@ -47,9 +49,22 @@ _A C++ console application for analyzing decision-making mechanisms through self
 
 ## 🖼️ Screenshots
 
-**Coming soon!**
+_Screenshots showcasing the main menu, the self-report questionnaire process, example outputs for sensory systems and metaprograms, tailored product descriptions, and the program description screen._
 
-_This section will be updated with screenshots showcasing the main menu, the self-report questionnaire process, example outputs for sensory systems and metaprograms, tailored product descriptions, and the program description screen._
+<p align="center">
+  <img src="screenshots\1.jpg" width="300"/>
+  <img src="screenshots\2.jpg" width="300"/>
+  <img src="screenshots\3.jpg" width="300"/>
+  <img src="screenshots\4.jpg" width="300"/>
+  <img src="screenshots\5.jpg" width="300"/>
+  <img src="screenshots\6.jpg" width="300"/>
+  <img src="screenshots\7.jpg" width="300"/>
+  <img src="screenshots\8.jpg" width="300"/>
+  <img src="screenshots\9.jpg" width="300"/>
+  <img src="screenshots\10jpg" width="300"/>
+  <img src="screenshots\11jpg" width="300"/>
+</p>
+
 
 ## ⚙️ System Requirements
 
